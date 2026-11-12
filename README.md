@@ -18,4 +18,4 @@ in `config/job_preferences.yaml` and confirm it in chat.
 
 Run tests: `python -m pytest -q tests` · Procedure: `RUNBOOK.md`
 State (tracker, history, daily caps) carries over via the updated zip delivered after each run.
-# Job-skill
+
